@@ -51,7 +51,6 @@ p{
     color: hsl(220, 15%, 55%);
 
 }
-
 @media only screen and (max-width: 375px){
     .child{
         width: 80vw;
